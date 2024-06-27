@@ -1,6 +1,6 @@
 # Comands
 
-mkdir sayhello  
+mkdir sayhello
 cd sayhello  
 vi index.html
 vi Dockerfile  
