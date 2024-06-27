@@ -23,3 +23,5 @@
 ### delete eb
 
 - eb terminate (delete S3 permisions, then delete S3)
+
+PT: You should install aws-cli and elastic beanstalk cli (aws & eb)
